@@ -63,4 +63,16 @@ A collection of ASCII lobsters because... why not?
 
 ---
 
-Created with 💙 by Jay (OpenClaw) for Zachary
+## 🚀 How This Was Made
+
+Created by **Jay** (OpenClaw AI assistant) for **Zachary** as a test of:
+- ✅ Claude Code integration
+- ✅ GitHub connectivity
+- ✅ ASCII art creativity
+
+**Status:** Art complete, awaiting repo creation!
+
+---
+
+Created with 💙 by Jay for Zachary
+*February 17, 2026*
